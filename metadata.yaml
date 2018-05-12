@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31954
     wikipedia: https://pt.wikipedia.org/wiki/Bento_de_Oliveira_Cardoso_e_Castro_Guedes_de_Carvalho_Lobo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34288#Fialho-d-Almeida
 gutenberg_bookshelf: PT Biografia
 gutenberg_issued: '2010-11-12'
 gutenberg_type: Text
