@@ -1,0 +1,43 @@
+_repo: Fialho-d-Almeida_34288
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Carneiro, António
+    aliases:
+    - Carneiro, Antonio
+    - Carneiro Jr., António Teixeira
+    birthdate: 1872
+    deathdate: 1930
+    gutenberg_agent_id: '36938'
+    url: http://www.gutenberg.org/2009/agents/36938
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Villa-Moura, Bento de Oliveira Cardoso, Visconde de
+    aliases:
+    - Villa-Moura, Visconde de
+    - Vila Moura, Visconde de
+    - Moura, Visconde de Vila
+    - Villa-Moura, Bento de Oliveira Cardoso e Castro, Visconde de
+    birthdate: 1877
+    deathdate: 1935
+    gutenberg_agent_id: '31954'
+    url: http://www.gutenberg.org/2009/agents/31954
+    wikipedia: https://pt.wikipedia.org/wiki/Bento_de_Oliveira_Cardoso_e_Castro_Guedes_de_Carvalho_Lobo
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2010-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34288'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Almeida, Fialho d'', 1857-1911'
+- !lcc 'PQ'
+title: Fialho d'Almeida
+url: http://www.gutenberg.org/ebooks/34288
